@@ -64,8 +64,7 @@ to_cluster = []
 
 # mention any of the missing names if giving errors from cluster() method
 missing_names = {'(Unknown)': 488,
-           'Prashant Bacchav': 489,
-           'Carry Icem': 490}
+           'Carry': 490}
 
 
 # create a cluster to separate the conversations and get a extra feature.
