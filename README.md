@@ -7,7 +7,7 @@ Get the dataset currently from messaging app on android only.<br>
 Download a backup creating app.<br>
 I would recommend the SMS Backup & Restore app from playstore: <br>
 https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en_IN <br>
-Backup all your texts from the phone as .xml(default option). Just backup from whatever way you prefer just it should be .xml file.<br>
+Backup all your texts from the phone as .xml(default option). Just backup from whatever way you prefer just it should be .xml<br>
 Move it to yuor computer and provide the location in given script.<br>
 Run the script.<br>
 Create a new Jupyter Notebook, load the dataset.<br>
