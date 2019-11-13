@@ -5,7 +5,7 @@ import textwrap
 from typing import List, Any
 
 # provide .xml file location
-tree = ET.parse('/home/anku5h/Downloads/sms-demo.xml')
+tree = ET.parse('/Downloads/sms-demo.xml')
 root = tree.getroot()
 
 sender_types = []
